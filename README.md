@@ -92,3 +92,19 @@ A.) Application Growth : <img src="https://github.com/PraveenSharma95/A-SQL-Proj
 <br>
 
 B.) Business Growth : <img src="https://github.com/PraveenSharma95/A-SQL-Project/blob/main/Raw%20Files/Business%20Growth.JPG"> 
+
+<br>
+<br>
+
+** Challenges and Learnings**
+
+o The main challenge posed by this project was to extract the data from CSVs into MYSQL Server as while importing 
+  and changing the data format, the data was unable to get loaded, so as a solution I worked on Microsoft SQL Server, 
+  where the data got loaded in fractions of time.
+  
+o Another challenge which I faced was to manage the time as It was very difficult to deliver the project in 
+  three days along with my work.
+
+o I learnt about what all factors and KPIs can contribute for the business growth.
+
+o   
